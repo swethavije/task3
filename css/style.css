@@ -1,6 +1,13 @@
+body{
+	background-color:black;
+}
 .container{
-	    width: 890px;
+	    width:600px;
     margin: auto;
+	background-color:white;
+	padding-top:30px;
+	padding-left:50px;
+	padding-bottom:50px;
 }
 .name{
 	display:flex;
